@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#EDC9AF</item>
+        <!-- Desert Sand -->
+        <item name="colorPrimaryDark">#654321</item>
+        <!--Dark Brown-->
+        <item name="colorAccent">#555555</item>
+        <!--Davy's Grey-->
+    </style>
+    <style name="FirstTheme" parent="AppTheme">
+    </style>
+</resources>
